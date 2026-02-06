@@ -8,3 +8,4 @@ I’m currently working on: Building secure smart contracts and exploring Blockc
 
 ![En Çok Kullanılan Diller](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yEKr00tz&theme=dark&show_icons=true&layout=compact)
 ![Python Syntax Check](https://github.com/yEKr00tz/Solidity-Security-Scanner/actions/workflows/python-app.yml/badge.svg)
+![.NET Build Check](https://github.com/yEKr00tz/ChaosGuard.NET/actions/workflows/dotnet.yml/badge.svg)
