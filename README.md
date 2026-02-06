@@ -1,3 +1,4 @@
+![Python Syntax Check](https://github.com/KULLANICI_ADIN/REPO_ADIN/actions/workflows/python-app.yml/badge.svg)
 # 💫 About Me:
 I’m currently working on: Building secure smart contracts and exploring Blockchain Custody solutions.<br>I’m looking for help with: Advanced auditing techniques for Solidity-based smart contracts.<br>Ask me about: Smart contract vulnerabilities, blockchain fundamentals, and XR development.
 
