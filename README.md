@@ -11,6 +11,6 @@ I’m currently working on: Building secure smart contracts and exploring Blockc
 
 <br>
 
-![Python Syntax Check](https://github.com/yEKr00tz/Solidity-Security-Scanner/actions/workflows/python-app.yml/badge.svg)
+![Python Check](https://github.com/yEKr00tz/Solidity-Security-Scanner/actions/workflows/python-app.yml/badge.svg)
 <br>
 ![.NET Build Check](https://github.com/yEKr00tz/ChaosGuard.NET/actions/workflows/dotnet.yml/badge.svg)
